@@ -1,0 +1,55 @@
+.header-main{
+    display: flex;
+}
+/* Gradient Backgrounds */
+.bg-gradient-primary {
+    background: linear-gradient(45deg, #007bff, #00d2ff); /* Blue to Light Blue */
+  }
+  
+  .bg-gradient-secondary {
+    background: linear-gradient(45deg, #6c757d, #adb5bd); /* Gray to Light Gray */
+    width: 150px;
+    height: 50px;
+    padding: 8px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+    transition: transform 0.3s ease; 
+  }
+  .bg-gradient-secondary:hover{
+    transform: scale(1.2); 
+    background: linear-gradient(45deg, #243c89, #a4d3a6);
+    color: #ecd7d9;
+  }
+  .bg-gradient-success {
+    background: linear-gradient(45deg, #287fa7, #4caf50); /* Green to Light Green */
+  }
+  
+  .bg-gradient-danger {
+    background: linear-gradient(45deg, #dc3545, #ff5722); /* Red to Orange Red */
+  }
+  
+  .bg-gradient-warning {
+    background: linear-gradient(45deg, #ffc107, #ff9800); /* Yellow to Deep Orange */
+  }
+  
+  .bg-gradient-info {
+    background: linear-gradient(45deg, #17a2b8, #00bcd4); /* Teal to Cyan */
+    width: 90px;
+    height: 40px;
+    padding: 8px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+  }
+  .bg-gradient-info:hover{
+    background: linear-gradient(45deg, #dc3545, #ff5722);
+  }
+  .bg-gradient-light {
+    background: linear-gradient(45deg, #f8f9fa, #e0e0e0); /* Light Gray to Gray */
+  }
+  
+  .bg-gradient-dark {
+    background: linear-gradient(45deg, #343a40, #212529); /* Dark Gray to Black */
+  }
+  
