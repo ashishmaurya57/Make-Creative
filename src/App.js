@@ -6,11 +6,10 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import DataApp from './DataContext';
 
 import Header from './components/shared/Header';
-import Footer from './components/shared/Footer';
+
 import Footer_Light from './components/shared/Footer_Light';
 import Home from './components/Home';
-import Product from './components/Product';
-import Category from './components/Category';
+
 
 import About from './components/About';
 import Courses from './components/Courses';
