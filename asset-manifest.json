@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Make-Creative/static/css/main.e8a6b42f.css",
+    "main.js": "/Make-Creative/static/js/main.8c770ca6.js",
+    "static/media/hero-bg-2-1.png": "/Make-Creative/static/media/hero-bg-2-1.b8c7dcd86ef3dbb0d09f.png",
+    "static/media/jamil.jpeg": "/Make-Creative/static/media/jamil.fc660026dd9603772701.jpeg",
+    "index.html": "/Make-Creative/index.html",
+    "static/media/slick.svg": "/Make-Creative/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Make-Creative/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Make-Creative/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Make-Creative/static/media/slick.295183786cd8a1389865.woff",
+    "main.e8a6b42f.css.map": "/Make-Creative/static/css/main.e8a6b42f.css.map",
+    "main.8c770ca6.js.map": "/Make-Creative/static/js/main.8c770ca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a6b42f.css",
+    "static/js/main.8c770ca6.js"
+  ]
+}
